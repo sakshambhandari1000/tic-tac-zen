@@ -1,16 +1,41 @@
-# React + Vite
+# 🧩 Zen Tic Tac Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A creative and modern take on the classic Tic Tac Toe game — built with **React**, styled using **TailwindCSS**, and designed in **Figma**.  
+This project was created as part of my **Capstone for Bellevue College**, demonstrating skills in **React**, **AWS**, **GitHub**, and **UI/UX design**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Overview
 
-## React Compiler
+**Zen Tic Tac Toe** is a sleek, theme-based web app that can be played **1v1 locally** or **against a CPU**.  
+It features multiple color themes, a dynamic scoreboard, motivational “coach” quotes, and smooth, responsive UI animations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Tools Used |
+|-----------|-------------|
+| **Frontend Framework** | React (Vite) |
+| **Styling** | TailwindCSS |
+| **Design & Prototyping** | Figma |
+| **Version Control** | Git + GitHub |
+| **Hosting** | GitHub Pages / AWS S3 |
+| **Other** | gh-pages deploy automation |
+
+---
+
+## 🚀 Live Demo
+
+👉 **Play it here:** [https://sakshambhandari1000.github.io/tic-tac-zen](https://sakshambhandari1000.github.io/tic-tac-zen)
+
+---
+
+## 🎮 Features
+
+- 🧠 **Player vs Player & Player vs CPU** — play locally or against the computer.  
+- 🎨 **3 Custom Themes** — Classic, Neon, and Bamboo.  
+- 🏆 **Scoreboard** — tracks wins, draws, and rounds.  
+- 💬 **“Coach Says” Quotes** — fun motivational feedback for wins or losses.  
+- ⚡ **Responsive UI** — works on all screen sizes.  
+- ☁️ **Hosted on GitHub Pages** — built with Vite and deployed via `gh-pages`.
